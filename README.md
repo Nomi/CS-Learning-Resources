@@ -98,8 +98,10 @@ Programming and scripting languages, Markup languages etc.*
 
 ## 6 - Other Technical Programming Topics
 ### 6.1 - POSIX/Linux/Unix Programming
+***(should I just use the language specific pages for this???)***
 1. tbd: tbd
 ### 6.2 - Embedded Systems
+***(should I just use the language specific pages for this???)***
 1. tbd: tbd
 ### 6.3 - DevOps and related things
 #### 6.3.1 - GitHub Actions
@@ -163,3 +165,15 @@ Programming and scripting languages, Markup languages etc.*
 1. tbd: tbd
 ### 10.2 - GitHub specific things
 1. tbd: tbd
+
+## 11 - [Tools] Operating Systems (incl. shell scripting, etc.)
+### 11.1 - Linux
+1. tbd: tbd (man pages,etc??)
+### 11.2 - Windows
+
+## 12 - [Tools] Editor/IDE
+### 12.1 - VSCode
+#### 12.1.1 - General, Configuration, etc.
+#### 12.1.2 - Tips and Tricks
+#### 12.1.3 - Extensions
+### 12.2 - Visual Studio
