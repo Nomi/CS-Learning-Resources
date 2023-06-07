@@ -1,3 +1,4 @@
+
 # Computer Science Learning Resources
 
 *My curated list of Computer Science learning resources.*
@@ -182,3 +183,18 @@ Programming and scripting languages, Markup languages etc.*
 1. tbd: tbd
 ### 12.2 - Visual Studio
 1. tbd: tbd
+
+## 13 - Important Concepts (General, non-technical)
+### 13.1 - Algorithms and Data Structures 
+1. tbd: tbd (e.g. link to masterdrive pdf)
+### 13.2 - Algorithms and Computability
+1. tbd: tbd
+### 13.3 - Project Management and Development Methodologies
+(Agile, UML, etc.)
+1. tbd: tbd
+
+## 14 - ~~Important Concepts (General, Technical)~~
+~~1. tbd: tbd~~
+
+### 15 -Full Curriculum Computer Science Online Courses (Free, Unsupervised)
+1. tbd: tbd (need to remember the ones I'd found already)
