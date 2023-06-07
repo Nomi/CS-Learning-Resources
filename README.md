@@ -168,12 +168,17 @@ Programming and scripting languages, Markup languages etc.*
 
 ## 11 - [Tools] Operating Systems (incl. shell scripting, etc.)
 ### 11.1 - Linux
-1. tbd: tbd (man pages,etc??)
+1. tbd: tbd (archlinux, man pages,etc??)
 ### 11.2 - Windows
+1. tbd: tbd
 
 ## 12 - [Tools] Editor/IDE
 ### 12.1 - VSCode
 #### 12.1.1 - General, Configuration, etc.
+1. tbd: tbd
 #### 12.1.2 - Tips and Tricks
+1. tbd: tbd
 #### 12.1.3 - Extensions
+1. tbd: tbd
 ### 12.2 - Visual Studio
+1. tbd: tbd
