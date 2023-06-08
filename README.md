@@ -142,7 +142,7 @@ Programming and scripting languages, Markup languages etc.*
  
 ## 4 - Purely UI Framworks [GUI/Frontends]
 ### 4.1 - Dear ImGUI (C++)
-1. [Dear ImGUI - GitHub Repository (includes Docs and examples)]((https://github.com/ocornut/imgui))
+1. [Dear ImGUI - GitHub Repository (includes Docs and examples)](https://github.com/ocornut/imgui)
 1. [Make your own GUI apps in C++ (with ImGui and Vulkan) - on The Cherno's YouTube channel](https://www.youtube.com/watch?v=5zS-DZhCA2g): Uses ImGUI, Vulkan, and Walnut.
 
 1. [Make your own GUI apps in C++ (with ImGui and Vulkan) - on The Cherno's YouTube channel](https://www.youtube.com/watch?v=5zS-DZhCA2g)
