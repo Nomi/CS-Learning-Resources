@@ -3,7 +3,7 @@
 
 *My curated list of Computer Science learning resources.*
 [ Note (after writing more than half of the layout): I probably should've just used latex to avoid the numbering. :'( ]
-## Index of Contents
+## Table of Contents
 | | **Title** | Subsections|
 |--|--|--|
 | 1 | [General Course Websites](#1---general-course-websites) ||
@@ -19,7 +19,12 @@
 1. [r/learnprogramming (reddit) FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq/): Includes a list similar to this one.
 2. [Michael0x2a's Curated Programming Resources (GitHub)](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md): A list similar to this list.
 
-## 1 - General Course websites
+## 1 - General Resources
+### 1.1 - Practice\Exercise Resources
+1. [Exercism](https://exercism.org/) - 
+"A great site for learning any of 59 different programming languages, all for free. Some languages have more, longer and better tutorials than other languages, but at least the main languages are pretty filled. The learning is challenge-focused, which each lesson being a certain topic (e.g. "Tuples" or "Expression Bodied Members", and then you have to write functioning code using it to pass to more advanced lessons." - From a Reddit thread 
+"Exercism is great, I recommend it for new starts at my company for learning golang." - Also from a Reddit Thread
+### 1.2 - Courses
 ### Free:
 1. [The Odin Project](https://www.theodinproject.com/): Full-Stack Web Development.
 ### Paid:
@@ -30,7 +35,22 @@
 
 ### Free:
 1. [Refactoring Guru](https://refactoring.guru/): Refactoring, Design Patterns, SOLID principles, and other smart programming topics.
-1. tbd: tbd
+***{I recommend.}***
+
+1. [A Solid Guide to SOLID Principles | Baeldung](https://www.baeldung.com/solid-principles)
+
+1. [TDD (Test Driven Development) | AgileAlliance](https://www.agilealliance.org/glossary/tdd): (*probably should've been in the Project Management and Development Methodologies section)*
+
+1. [DRY (Don’t Repeat Yourself) Principle in Java with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/dry-dont-repeat-yourself-principle-in-java-with-examples/)
+
+1. [What are microservices?](https://microservices.io/): Microservices Architecture
+
+1. [Basic Principles of OOPS (Object-Oriented Programming) - InterviewBit](https://www.interviewbit.com/blog/principles-of-oops/)
+
+1. [The Interpreter Pattern Revisited - YouTube](https://www.youtube.com/watch?v=hmX2s3pe_qk)
+
+1. [Strategy Pattern | Set 1 (Introduction) - GeeksforGeeks](https://www.geeksforgeeks.org/strategy-pattern-set-1/)
+
 ### Paid:
 1. tbd: tbd
 
@@ -48,7 +68,6 @@ Programming and scripting languages, Markup languages etc.*
 #### 3.2.1 Interview Resources
 1. tbd: tbd
 #### 3.2.2 Learning Materials
-##### Free:
 1. [cppreference.com](https://en.cppreference.com/w/): Almost like C++ documentation. 
 ***{I recommend.}***
 
@@ -78,8 +97,6 @@ Programming and scripting languages, Markup languages etc.*
 12. [NOTE: a note regarding the fitness of refactoring guru for C++ (the gist of it: it's mostly good, but at least the templates section doesn't mention concept of C++ templates at all).](https://www.reddit.com/r/cpp_questions/comments/yih9w8/comment/iuiss6x/)
 
 
-##### Paid:
-1. tbd: tbd
 ### 3.3 - C
 1. tbd: tbd
 ### 3.4 - Python
@@ -102,16 +119,36 @@ Programming and scripting languages, Markup languages etc.*
 
 #### Paid: 
 1. [Rust in Action](https://www.manning.com/books/rust-in-action): Seems to be recommended because of its projects (e.g. CPU emulator, OS kernel, grep clone, memory scanner, DNS resolver, etc.)
-### 3.7 - Kotlin (Android)
-1. tbd: tbd
-### 3.8 - Java (incl. SpringBoot, etc.)
-1. tbd: tbd
+### 3.7 - Kotlin (Android dev, Spring, SpringBoot, etc.)
+1. [Get started with Kotlin | Kotlin Documentation (kotlinlang.org)](https://kotlinlang.org/docs/getting-started.html): Official docs. Apart from just the language itself, it also includes tutorials for Spring, SpringBoot, Android/iOS dev, etc.
+
+2. [Learning materials overview | Kotlin Documentation (kotlinlang.org)](https://kotlinlang.org/docs/learning-materials-overview.html)
+
+3. [Learn Kotlin for Android Development](https://developer.android.com/kotlin/campaign/learn) 
+
+4. [Kotlin for C# Developers: CodeMash | Pluralsight](https://www.pluralsight.com/courses/codemash-session-76)
+
+5. tbd: tbd 
+### 3.8 - Java (incl. Spring, SpringBoot, etc.)
+
+1. [Best/Fastest way to learn Java for a job? : learnjava (reddit.com)](https://www.reddit.com/r/learnjava/comments/x0w4z3/comment/imae0q1/?utm_source=share&utm_medium=web2x&context=3): Resources listed in the linked reply are RECOMMENDED.
+
+3. [(1) Learn Java (reddit.com)](https://www.reddit.com/r/learnjava/): Look at the "Free Tutorials" sidebar and the "Community Resources" thread.
+
+4. tbd: tbd (might want to put the links here directly instead of reddit thread for the first one.)
+
 ### 3.9 - XML, YAML, JSON, etc.
 1. tbd: tbd
  
 ## 4 - Purely UI Framworks [GUI/Frontends]
-### 4.1 - Dear, ImGUI (C++)
-1. tbd: tbd
+### 4.1 - Dear ImGUI (C++)
+1. [Dear ImGUI - GitHub Repository (includes Docs and examples)]((https://github.com/ocornut/imgui))
+1. [Make your own GUI apps in C++ (with ImGui and Vulkan) - on The Cherno's YouTube channel](https://www.youtube.com/watch?v=5zS-DZhCA2g): Uses ImGUI, Vulkan, and Walnut.
+
+1. [Make your own GUI apps in C++ (with ImGui and Vulkan) - on The Cherno's YouTube channel](https://www.youtube.com/watch?v=5zS-DZhCA2g)
+
+1. [The Cherno (YouTube)](https://youtube.com/@TheCherno)
+
 ### 4.2 - Qt
 1. tbd: tbd
 ### 4.3 - WinForms, WinAPI, WPF, etc.
@@ -126,6 +163,8 @@ Programming and scripting languages, Markup languages etc.*
 ## 5 - Database
 ### 5.1 - Relational/SQL Databases
 #### 5.1.1 - Non-specific resources:
+1. tbd: tbd
+1. [Databases | Course | Stanford Online](https://online.stanford.edu/courses/soe-ydatabases-databases)
 1. tbd: tbd
 #### 5.1.2 - MS SQL Server
 1. tbd: tbd
@@ -149,13 +188,18 @@ Programming and scripting languages, Markup languages etc.*
 ### 6.3 - DevOps and related things
 #### 6.3.1 - GitHub Actions
 1. tbd: tbd
-#### 6.3.2 - Docker
+#### 6.3.2 - Docker and Kubernetes
+1. [Docker Docs: How to build, share, and run applications | Docker Documentation](https://docs.docker.com/)
+
+2. [Kubernetes Documentation | Kubernetes](https://kubernetes.io/docs/home/)
+
+3. [(1) What are some really good courses for Docker & Kubernetes? : devops (reddit.com)](https://www.reddit.com/r/devops/comments/urlc3e/what_are_some_really_good_courses_for_docker/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button)
+
+4. tbd: tbd
+
+#### 6.3.3 - CI/CD
 1. tbd: tbd
-#### 6.3.3 - Kubernetes
-1. tbd: tbd
-#### 6.3.4 - CI/CD
-1. tbd: tbd
-#### 6.3.5 - Other DevOps
+#### 6.3.4 - Other DevOps
 1. tbd: tbd
 ### 6.4 - Computer Vision and Image Processing
 (including related AI concepts)
@@ -163,9 +207,10 @@ Programming and scripting languages, Markup languages etc.*
 ### 6.5 - Natural Language Processing 
 (including related AI concepts)
 1. tbd: tbd (NLTK book?, affine?)
-### 6.6 - Artifical Intelligence
+### 6.6 - Artifical Intelligence (AI)
 (excluding AI concepts mentioned elsewhere in this section)
-1. tbd: tbd
+1. [Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018) - YouTube](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+2. tbd: tbd
 ### 6.7 - Cloud
 #### 6.7.1 - Microsoft Azure
 1. tbd: tbd
@@ -203,9 +248,23 @@ Programming and scripting languages, Markup languages etc.*
 ### 9.2 - C#
 1. tbd: tbd
 
-## 10 - git (VCS)
+## 10 - Git (VCS)
 ### 10.1 - git
-1. tbd: tbd
+1. [Git - Documentation (git-scm.com)](https://git-scm.com/doc): Official Git documentation.
+
+2. [Pro Git official book (git-scm.com)](https://git-scm.com/book/en/v2)
+
+3. [Git workflow. Branch Naming conventions | by Codylillyw | Medium](https://codylillyw.medium.com/git-workflow-7c52edacdc7c)
+
+4. [Oh My Git!](https://ohmygit.org/): A Git based video game to help practice Git.
+***{I recommend.}***
+
+5. [Learn Git Branching](https://learngitbranching.js.org/): An interactive online tool to help you practice/learn git branching.
+***{I recommend.}***
+
+6. [Foundations | The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics): Just the "Git Basics" section
+***{I recommend.}***
+
 ### 10.2 - GitHub specific things
 1. tbd: tbd
 
@@ -220,6 +279,7 @@ Programming and scripting languages, Markup languages etc.*
 #### 12.1.1 - General, Configuration, etc.
 1. tbd: tbd
 #### 12.1.2 - Tips and Tricks
+1. [VS Code Path Trick w/ JavaScript #Shorts - YouTube](https://www.youtube.com/shorts/WpgZKBtW_t8)
 1. tbd: tbd
 #### 12.1.3 - Extensions
 1. tbd: tbd
@@ -227,16 +287,23 @@ Programming and scripting languages, Markup languages etc.*
 1. tbd: tbd
 
 ## 13 - Important Concepts (General, non-technical)
+### 13.0 - Misc.
 ### 13.1 - Algorithms and Data Structures 
 1. tbd: tbd (e.g. link to masterdrive pdf)
+2. [Lecture 1: Algorithmic Thinking, Peak Finding - YouTube (MIT OpenCourseWare)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+3. 
 ### 13.2 - Algorithms and Computability
 1. tbd: tbd
 ### 13.3 - Project Management and Development Methodologies
 (Agile, UML, etc.)
 1. tbd: tbd
+### 13.4 - Linear Algebra
+1. [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005 - YouTube (MIT OpenCourseWare)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=2)
+### 13.5 Probability and Statistics
+1. [1. Probability Models and Axioms - YouTube (MIT OpenCourseWare)](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 
 ## 14 - ~~Important Concepts (General, Technical)~~
 ~~1. tbd: tbd~~
 
-### 15 -Full Curriculum Computer Science Online Courses (Free, Unsupervised)
+## 15 - Full Curriculum Computer Science Online Courses (Free, Unsupervised)
 1. tbd: tbd (need to remember the ones I'd found already)
