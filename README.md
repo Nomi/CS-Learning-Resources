@@ -15,10 +15,13 @@
 |  | [](#) ||
 |  | [](#) ||
 |  | [](#) ||
-## 1 - General Course Websites
+## 0 - Similar Resources
+1. [r/learnprogramming (reddit) FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq/): Includes a list similar to this one.
+2. [Michael0x2a's Curated Programming Resources (GitHub)](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md): A list similar to this list.
+
+## 1 - General Course websites
 ### Free:
 1. [The Odin Project](https://www.theodinproject.com/): Full-Stack Web Development.
-1. tbd: tbd
 ### Paid:
 1. [Fireship](https://www.fireship.io/)
 1. tbd: tbd
@@ -46,7 +49,35 @@ Programming and scripting languages, Markup languages etc.*
 1. tbd: tbd
 #### 3.2.2 Learning Materials
 ##### Free:
-1. tbd: tbd
+1. [cppreference.com](https://en.cppreference.com/w/): Almost like C++ documentation. 
+***{I recommend.}***
+
+2. [The C++ Annotations (rug.nl)](http://www.icce.rug.nl/documents/cplusplus/): Not for beginners, but a good resource for those who know a few things about programming (in a C-like language). [Some topics included are: STL (Standard Template Library), Multi-threading, etc.] 
+***{I recommend.}***
+
+3. [Boost C++ Libraries - Documentation](https://www.boost.org/doc/): Documentation for the nifty collection of libraries called "Boost". This probably isn't something you should learn, but instead keep it in mind and then use the relevant parts as needed whenever (and if ever) you end up needing to use one of the libraries included in Boost. The number and topics of the libraries are truly vast (from multi-threading to arbitrary precision arithmetic and so on).
+***{I recommend.}***
+
+4. [The Cherno (YouTube)](https://youtube.com/@TheCherno): One of the best C++ teachers. I have learned the most nifty tricks from there. (Includes related topics such "Dear ImGUI", GameDev, Game Engine Dev, and general CS concepts).
+***{I recommend.}***
+
+4. [(r/learnprogramming (reddit) - C++ FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq_cpp/)
+
+6. https://learncpp.com/
+
+7. [The C++ Standard Template Library (STL) (geeksforgeeks)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+
+8. https://www.gamedesigning.org/learn/c-plus-plus/
+
+9. [C9 Lectures: Stephan T. Lavavej - Standard Template Library (STL) | Microsoft Learn](https://learn.microsoft.com/en-us/shows/c9-lectures-stephan-t-lavavej-standard-template-library-stl-/)
+
+10. [C++ FAQ - The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+
+11. [Stroustrup's FAQ section on learning C++](https://www.stroustrup.com/bs_faq.html#learning)
+
+12. [NOTE: a note regarding the fitness of refactoring guru for C++ (the gist of it: it's mostly good, but at least the templates section doesn't mention concept of C++ templates at all).](https://www.reddit.com/r/cpp_questions/comments/yih9w8/comment/iuiss6x/)
+
+
 ##### Paid:
 1. tbd: tbd
 ### 3.3 - C
@@ -59,7 +90,18 @@ Programming and scripting languages, Markup languages etc.*
 #### 3.5.2 Learning Materials
 1. tbd: tbd
 ### 3.6 - Rust
-1. tbd: tbd
+#### Free:
+1. [Rust Documentation (rust-lang.org)](https://doc.rust-lang.org/stable/): The official documentation for Rust. Contains knowledge not only about Rust language but also about a vast array of related topics such as Cargo, rustdoc (their documentation tool), rustc (compiler), etc. It also contains references and such for the Rust language apart from the book meant to learn Rust. It is THE One-stop shop for Rust.
+***{I recommend.}***
+
+2. [Rust exercises (on Exercism.com)](https://exercism.org/tracks/rust): Exercises for Rust language.
+
+3. Let's Get Rusty's Cheat Sheet: Cheat sheet created by a YouTuber "Let's Get Rusty". Not sure about how good it is, just know that it exists and seems useful/nifty (only had one glance at it).
+
+4.  
+
+#### Paid: 
+1. [Rust in Action](https://www.manning.com/books/rust-in-action): Seems to be recommended because of its projects (e.g. CPU emulator, OS kernel, grep clone, memory scanner, DNS resolver, etc.)
 ### 3.7 - Kotlin (Android)
 1. tbd: tbd
 ### 3.8 - Java (incl. SpringBoot, etc.)
