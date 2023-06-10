@@ -57,13 +57,39 @@
 ## 3 - Programming Languages, Frameworks, and Technologies
 Programming and scripting languages, Markup languages etc.*
 ### 3.1 - C# (.NET)
+A.K.A. C Sharp.
 #### 3.1.1 Interview Resources
 1. tbd: tbd
 #### 3.1.2 Learning Materials
 ##### Free:
-1. tbd: tbd
+1. [C# docs - get started, tutorials, reference. | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+2. [.NET documentation | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/): (Covers what .NET Framework and .NET Core concepts. They are now both combined and simply called .NET)
+
+3. [Entity Framework documentation hub | Microsoft Learn](https://learn.microsoft.com/en-us/ef/)
+
+4. [ASP.NET Core Blazor | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0)
+
+5. [Nick Chapsas' YouTube Channel](https://www.youtube.com/@nickchapsas): He makes some great, informative videos on various topics such as C#, .NET, etc. Some quite advanced. I recommend periodically checking up because he also covers new features in new releases and shares some nifty tips. 
+***{I recommend.}***
+
+6. [Restful API In .NET Core Using EF Core And Postgres (c-sharpcorner.com)](https://www.c-sharpcorner.com/article/restful-api-in-net-core-using-ef-core-and-postgres/): A tutorial (the title explains what it is about). 
+
+7. [Building REST APIs with .NET 5, ASP.NET Core, and PostgreSQL | End Point Dev](https://www.endpointdev.com/blog/2021/07/dotnet-5-web-api/): Tutorial for what the title says. 
+
+8. [Tim Corey's YouTube Playlists](https://www.youtube.com/@IAmTimCorey/playlists): Teaches various topics such as .NET (WebAPIs), Blazor, etc. Recommend starting here: [Start Here - YouTube](https://www.youtube.com/playlist?list=PLLWMQd6PeGY2_L2WC6_VYVEoAb4KhDPDW) (Seems to be more beginner friendly).
+
+9. [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application (9 of 10) | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
+
+10. [Note about starting a C# web development career](#reddit-note-c-c-sharp-1)
+
+11. [TimCo Retail Manager Course Introduction - A full start to finish course - YouTube](https://www.youtube.com/watch?v=Xtt6mS0p2_c&list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx&index=1)
+
 ##### Paid:
-1. tbd: tbd
+1. [Courses by Nick Chapsas - Dometrain](https://dometrain.com/author/nick-chapsas/)
+
+2. tbd: tbd
+
 ### 3.2 - C++ (incl. STL, Boost, etc.)
 #### 3.2.1 Interview Resources
 1. tbd: tbd
@@ -101,11 +127,17 @@ Programming and scripting languages, Markup languages etc.*
 1. tbd: tbd
 ### 3.4 - Python
 1. tbd: tbd
-### 3.5 - JavaScript and TypeScript
+2. [ArjanCodes - YouTube](https://www.youtube.com/c/arjancodes): Saw it being recommended online.
+3. tbd: tbd.
+### 3.5 - JavaScript and TypeScript (incl. nodejs/node.js, express, etc.)
 #### 3.5.1 Interview Resources
 1. tbd: tbd
 #### 3.5.2 Learning Materials
-1. tbd: tbd
+1. [JavaScript | MDN (mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+2. [Miss Xing - YouTube](https://www.youtube.com/@MissXing/playlists): Teaches Spring, Hibernate, MongoDB, JavaScript, Node.js, Express,  Mongoose, and MORE.  Also saw it being recommended by someone over at Reddit for Spring Boot ([link to thread)](https://www.reddit.com/r/learnjava/comments/okdy51/best_way_to_learn_spring_boot/)).
+
+3. tbd: tbd
 ### 3.6 - Rust
 #### Free:
 1. [Rust Documentation (rust-lang.org)](https://doc.rust-lang.org/stable/): The official documentation for Rust. Contains knowledge not only about Rust language but also about a vast array of related topics such as Cargo, rustdoc (their documentation tool), rustc (compiler), etc. It also contains references and such for the Rust language apart from the book meant to learn Rust. It is THE One-stop shop for Rust.
@@ -113,9 +145,13 @@ Programming and scripting languages, Markup languages etc.*
 
 2. [Rust exercises (on Exercism.com)](https://exercism.org/tracks/rust): Exercises for Rust language.
 
-3. Let's Get Rusty's Cheat Sheet: Cheat sheet created by a YouTuber "Let's Get Rusty". Not sure about how good it is, just know that it exists and seems useful/nifty (only had one glance at it).
+3.[Jon Gjengset - YouTube](https://www.youtube.com/@jonhoo): Saw him being recommended online. Particularly, the course/playlist linked was -[Crust of Rust - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa). Apparently, "John Gjengset’s Rust videos are fantastic for learning about intermediate-advanced Rust concepts." and "John Gjengset’s Rust videos are fantastic for learning about intermediate-advanced Rust concepts.".
 
-4.  
+4. [mre/idiomatic-rust: 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust. (github.com)](https://github.com/mre/idiomatic-rust) 
+
+5. Let's Get Rusty's Cheat Sheet: Cheat sheet created by a YouTuber "Let's Get Rusty". Not sure about how good it is, just know that it exists and seems useful/nifty (only had one glance at it).
+
+6.  tbd: tbd
 
 #### Paid: 
 1. [Rust in Action](https://www.manning.com/books/rust-in-action): Seems to be recommended because of its projects (e.g. CPU emulator, OS kernel, grep clone, memory scanner, DNS resolver, etc.)
@@ -128,14 +164,31 @@ Programming and scripting languages, Markup languages etc.*
 
 4. [Kotlin for C# Developers: CodeMash | Pluralsight](https://www.pluralsight.com/courses/codemash-session-76)
 
-5. tbd: tbd 
-### 3.8 - Java (incl. Spring, SpringBoot, etc.)
+5. [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 
-1. [Best/Fastest way to learn Java for a job? : learnjava (reddit.com)](https://www.reddit.com/r/learnjava/comments/x0w4z3/comment/imae0q1/?utm_source=share&utm_medium=web2x&context=3): Resources listed in the linked reply are RECOMMENDED.
+6.   [Spring Framework Documentation :: Spring Framework](https://docs.spring.io/spring-framework/reference/)
 
-3. [(1) Learn Java (reddit.com)](https://www.reddit.com/r/learnjava/): Look at the "Free Tutorials" sidebar and the "Community Resources" thread.
+7. tbd: tbd 
+### 3.8 - Java (incl. Spring, SpringBoot, Hibernate, etc.)
 
-4. tbd: tbd (might want to put the links here directly instead of reddit thread for the first one.)
+1. [Note from Reddit about best ways to learn Java](#reddit-note-java-1)
+
+2. [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/) 
+
+3. [Spring Framework Documentation :: Spring Framework](https://docs.spring.io/spring-framework/reference/) 
+
+4. [Spring Tutorial | Baeldung](https://www.baeldung.com/spring-tutorial) 
+
+5. [Learn Spring Boot | Baeldung](https://www.baeldung.com/spring-boot) 
+
+6. [Amigoscode - YouTube](https://www.youtube.com/@amigoscode/playlists): Teaches Java, Python, Spring, Spring Boot, Algorithms, Microservices, Kubernetes, Postgre, etc. Saw it being recommended by someone over at Reddit for Spring Boot ([link to thread)](https://www.reddit.com/r/learnjava/comments/okdy51/best_way_to_learn_spring_boot/)).
+
+7. [Miss Xing - YouTube](https://www.youtube.com/@MissXing/playlists): Teaches Spring, Hibernate, MongoDB, JavaScript, Node.js, Express,  Mongoose, and MORE.  Also saw it being recommended by someone over at Reddit for Spring Boot ([link to thread)](https://www.reddit.com/r/learnjava/comments/okdy51/best_way_to_learn_spring_boot/)). 
+
+8. [Chad Darby | Popular Java Spring Instructor - Best Seller | Udemy](https://www.udemy.com/user/chaddarby2/): Seems like his course(s) for Spring, Hibernate, and Spring Boot course is regarded pretty well (especially for beginners). At least in one of the Reddit threads I researched. (Paid though) [Link to said Reddit thread](https://www.reddit.com/r/learnjava/comments/okdy51/best_way_to_learn_spring_boot/)
+
+9. [Learn Java (reddit.com)](https://www.reddit.com/r/learnjava/): Look at the "Free Tutorials" sidebar and the "Community Resources" thread.
+ 
 
 ### 3.9 - XML, YAML, JSON, etc.
 1. tbd: tbd
@@ -154,11 +207,17 @@ Programming and scripting languages, Markup languages etc.*
 ### 4.3 - WinForms, WinAPI, WPF, etc.
 1. tbd: tbd
 ### 4.4 - HTML and CSS, etc.
-1. tbd: tbd
+1. [MDN Web Docs (mozilla.org)](https://developer.mozilla.org/en-US/)
+
+2. tbd: tbd
 ### 4.5 - React
-1. tbd: tbd
+1. [MDN Web Docs (mozilla.org)](https://developer.mozilla.org/en-US/)
+
+2. tbd: tbd
 ### 4.6 - ReactNative
-1. tbd: tbd
+1. [MDN Web Docs (mozilla.org)](https://developer.mozilla.org/en-US/)
+
+2. tbd: tbd
 
 ## 5 - Database
 ### 5.1 - Relational/SQL Databases
@@ -169,12 +228,25 @@ Programming and scripting languages, Markup languages etc.*
 #### 5.1.2 - MS SQL Server
 1. tbd: tbd
 #### 5.1.3 - PostgreSQL
-1. tbd: tbd
+1. [PostgreSQL: Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/): Various resources (and various types of resources). Would recommend AT LEAST checking it out.
+***{I recommend.}***
+
+2. tbd: tbd 
+
+4. [Amigoscode - YouTube](https://www.youtube.com/@amigoscode/playlists): Teaches Java, Python, Spring, Spring Boot, Algorithms, Microservices, Kubernetes, Postgre, etc. Saw it being recommended by someone over at Reddit for Spring Boot ([link to thread)](https://www.reddit.com/r/learnjava/comments/okdy51/best_way_to_learn_spring_boot/)).
+
+5. tbd: tbd
+
+#### 5.1.4 - SQLite
 ### 5.2 - NoSQL Databases
 #### 5.2.1 - Non-specific resources:
 1. tbd: tbd
 #### 5.2.2 - MongoDB
 1. tbd: tbd
+
+2. [Miss Xing - YouTube](https://www.youtube.com/@MissXing/playlists): Teaches Spring, Hibernate, MongoDB, JavaScript, Node.js, Express,  Mongoose, and MORE.  Also saw it being recommended by someone over at Reddit for Spring Boot ([link to thread)](https://www.reddit.com/r/learnjava/comments/okdy51/best_way_to_learn_spring_boot/)).
+
+3. 
 ### 5.3 - NewSQL???
 1. tbd: tbd
 
@@ -193,9 +265,11 @@ Programming and scripting languages, Markup languages etc.*
 
 2. [Kubernetes Documentation | Kubernetes](https://kubernetes.io/docs/home/)
 
-3. [(1) What are some really good courses for Docker & Kubernetes? : devops (reddit.com)](https://www.reddit.com/r/devops/comments/urlc3e/what_are_some_really_good_courses_for_docker/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button)
+3. [Amigoscode - YouTube](https://www.youtube.com/@amigoscode/playlists): Teaches Java, Python, Spring, Spring Boot, Algorithms, Microservices, Kubernetes, Postgre, and MORE. Saw it being recommended by someone over at Reddit for Spring Boot ([link to thread)](https://www.reddit.com/r/learnjava/comments/okdy51/best_way_to_learn_spring_boot/)).
 
-4. tbd: tbd
+4. [(1) What are some really good courses for Docker & Kubernetes? : devops (reddit.com)](https://www.reddit.com/r/devops/comments/urlc3e/what_are_some_really_good_courses_for_docker/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button)
+
+5. tbd: tbd
 
 #### 6.3.3 - CI/CD
 1. tbd: tbd
@@ -218,14 +292,18 @@ Programming and scripting languages, Markup languages etc.*
 1. tbd: tbd
 
 ## 7 - Documentation Tools
-### 7.1 - Doxygen 
+### 7.1 - Doxygen (C++/C, etc.)
 (Main: C++ | Others: C, Objective-C, C#, PHP, Java, Python, Fortran)
 1. tbd: tbd
-### 7.2 - JSDoc 
+### 7.2 - JSDoc (JavaScript)
 (JavaScript)
 1. tbd: tbd
 #### 7.3 C# XML Documentation
 (C#)
+1. tbd: tbd
+#### 7.4 Docstrings (Python)
+(Python)
+1. [Python Docstrings (With Examples) (programiz.com)](https://www.programiz.com/python-programming/docstrings)
 1. tbd: tbd
 
 ## 8 - Compilation, etc.
@@ -307,3 +385,104 @@ Programming and scripting languages, Markup languages etc.*
 
 ## 15 - Full Curriculum Computer Science Online Courses (Free, Unsupervised)
 1. tbd: tbd (need to remember the ones I'd found already)
+
+
+
+
+
+
+# Appendix
+###### Reddit Note C# 1
+Link: [(Best place/resources to learn C# for backend development? : csharp (reddit.com)](https://www.reddit.com/r/csharp/comments/wsxb92/comment/il4l678/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button)
+Content:
+
+> My first job out of school, which I held for like 3 years, was all
+> .net framework shitty wpf desktop and console apps. It was horrible,
+> and I had similar feelings of being "stuck" due to having no .net
+> core/web experience to speak of. The good news is that it really
+> should not take much effort to get the hang of backend .net core since
+> you already know c#. You can realisticly even learn it on the job if
+> you can just get past the interviews.
+> 
+> I'd recommend just familiarizing yourself with all of the components
+> of .net core webapi and some of the jargon. Just enough to be
+> comfortable talking about them in an interview and you should be good.
+> 
+> Examples:   What an http request is, and really just knowing what the
+> difference between the 'GET' and 'POST' methods is since the other
+> methods are used so infrequently   Know the common debugging tools:
+> swagger + postman (or insomnia)   What controllers are   What
+> middleware is   The concept of dependency injection, and what it means
+> to register a service with a DI container   The difference between the
+> dependency injection life cycles (singleton vs transient vs scoped)  
+> What JWT auth is   What an orm is. If you haven't used an orm before
+> just tell the interviewers you always used dapper, because you can
+> probably learn it in 30 seconds by looking at one example.   What
+> deployments and CI/CD pipelines are.
+> 
+> Before I started at my first backend web dev job I was kind of afraid
+> I get exposed for bs-ing my way through the interview, but I picked it
+> up quickly and now I look back and laugh at the fact I was even
+> worried.
+
+
+
+
+###### Reddit Note Java 1
+URL: [Best Fastest way to learn Java for a job? : learnjava (reddit.com)](https://www.reddit.com/r/learnjava/comments/x0w4z3/comment/imae0q1)
+
+Content:
+> It seems that you are looking for resources for learning Java.
+> 
+> In our  _sidebar_  ("About" on mobile), we have a section "Free
+> Tutorials" where we list the most commonly recommended courses.
+> 
+> To make it easier for you, the recommendations are posted right here:
+> 
+> -   MOOC  [Object Oriented Programming with Java](http://mooc.fi/english.html)  from the University of Helsinki
+>     
+> -   [Java for Complete Beginners](https://www.udemy.com/java-tutorial)
+>     
+>     -   accompanying site  [CaveOfProgramming](http://caveofprogramming.com/)
+>         
+> -   [Derek Banas' Java Playlist](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
+>     
+>     -   accompanying site  [NewThinkTank](http://newthinktank.com/)
+>         
+> -   [Hyperskill](https://hi.hyperskill.org/)  is a fairly new resource from  _Jetbrains_  (the maker of IntelliJ)
+>     
+> 
+> Also, don't forget to look at:
+> 
+> -   [The official Documentation](http://docs.oracle.com/javase/)
+>     
+> -   [The official Java Tutorials](http://www.oracle.com/technetwork/java/index-jsp-135888.html)
+>     
+> -   [Our community resources thread](https://www.reddit.com/r/learnjava/comments/md1loc/community_resources/)
+>     
+> 
+> If you are looking for learning resources for  _Data Structures and
+> Algorithms_, look into:
+> 
+> "Algorithms" by Robert Sedgewick and Kevin Wayne - Princeton
+> University
+> 
+> -   Coursera course:
+>     
+>     -   [Part I](https://www.coursera.org/learn/algorithms-part1)
+>         
+>     -   [Part II](https://www.coursera.org/learn/algorithms-part2)
+>         
+> -   Coursebook
+>     
+>     -   [Algorithms 4th  Edition](http://algs4.cs.princeton.edu/home/)
+>         
+> 
+> Your post remains visible. There is nothing you need to do.
+> 
+> I am a bot and this message was triggered by keywords like "learn",
+> "learning", "course" in the title of your post.
+> 
+> _I am a bot, and this action was performed automatically. Please_ [_contact the moderators of this
+> subreddit_](https://www.reddit.com/message/compose/?to=/r/learnjava)
+> _if you have any questions or concerns._
