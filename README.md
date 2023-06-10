@@ -384,7 +384,9 @@ A.K.A. C Sharp.
 ~~1. tbd: tbd~~
 
 ## 15 - Full Curriculum Computer Science Online Courses (Free, Unsupervised)
-1. tbd: tbd (need to remember the ones I'd found already)
+1. [OSSU Computer Science](https://github.com/ossu/computer-science)  - A full, long-term curriculum for CS starting from zero.
+
+2. [Teach Yourself CS](https://teachyourselfcs.com/)  - a full CS curriculum similar to OSSU.
 
 
 
