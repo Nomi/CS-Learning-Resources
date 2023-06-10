@@ -3,7 +3,7 @@
 
 *My curated list of Computer Science learning resources.*
 [ Note (after writing more than half of the layout): I probably should've just used latex to avoid the numbering. :'( ]
-## Table of Contents
+## Table of Contents (WORK IN PROGRESS / tbd / broken)
 | | **Title** | Subsections|
 |--|--|--|
 | 1 | [General Course Websites](#1---general-course-websites) ||
@@ -81,7 +81,7 @@ A.K.A. C Sharp.
 
 9. [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application (9 of 10) | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
 
-10. [Note about starting a C# web development career](#reddit-note-c-c-sharp-1)
+10. [Note from Reddit about starting a C# web development career](#reddit-note-c-c-sharp-1)
 
 11. [TimCo Retail Manager Course Introduction - A full start to finish course - YouTube](https://www.youtube.com/watch?v=Xtt6mS0p2_c&list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx&index=1)
 
@@ -392,8 +392,9 @@ A.K.A. C Sharp.
 
 
 # Appendix
-###### Reddit Note C# 1
+### Reddit Note C# (C Sharp) 1
 Link: [(Best place/resources to learn C# for backend development? : csharp (reddit.com)](https://www.reddit.com/r/csharp/comments/wsxb92/comment/il4l678/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button)
+
 Content:
 
 > My first job out of school, which I held for like 3 years, was all
@@ -428,7 +429,7 @@ Content:
 
 
 
-###### Reddit Note Java 1
+### Reddit Note Java 1
 URL: [Best Fastest way to learn Java for a job? : learnjava (reddit.com)](https://www.reddit.com/r/learnjava/comments/x0w4z3/comment/imae0q1)
 
 Content:
